@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "agora-access-token": "git+https://github.com/AgoraIO-Community/agora-access-token.git",
+    "agora-access-token": "https://github.com/AgoraIO-Community/agora-access-token.git",
     "express": "^4.18.2"
   }
 }
